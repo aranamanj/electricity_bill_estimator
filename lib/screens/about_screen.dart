@@ -9,7 +9,7 @@ class AboutScreen extends StatelessWidget {
   static const String _courseCode = 'ICT602';
   static const String _courseName = 'Mobile Technology and Development';
   static const String _githubUrl  =
-      'https://github.com/';
+      'https://github.com/aranamanj/electricity_bill_estimator';
   static const int _year = 2026;
 
   Future<void> _launch(BuildContext context) async {

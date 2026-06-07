@@ -39,7 +39,7 @@ Malaysia's TNB domestic tiered tariff. Built as part of a Mobile Technology cour
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/
+   git clone https://github.com/aranamanj/electricity_bill_estimator
 ```
 2. Install dependencies
 ```bash
