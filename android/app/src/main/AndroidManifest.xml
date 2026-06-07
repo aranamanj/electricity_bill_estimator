@@ -12,7 +12,7 @@
     </queries>
 
     <application
-        android:label="electricity_bill_estimator"
+        android:label="ElecBill"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
